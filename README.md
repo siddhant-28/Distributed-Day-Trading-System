@@ -1,7 +1,6 @@
-# SENG468
-UVic course project for SENG 468
+#Distributed Day Trading System
 
-This project requires docker installation.
+This system requires docker installation.
 To start the application: 
 
 For MacOSX & Linux systems:  `make build` \
