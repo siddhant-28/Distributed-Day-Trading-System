@@ -1,4 +1,4 @@
-#Distributed Day Trading System
+# Distributed Day Trading System
 
 This system requires docker installation.
 To start the application: 
